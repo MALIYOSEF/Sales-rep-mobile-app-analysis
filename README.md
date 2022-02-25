@@ -1,9 +1,5 @@
 # Sales-rep-mobile-app
-The new channel is designed to provide outstanding customer
-satisfaction and an excellent user experience and move our success
-partners to the digital area by integrating the "sales rep. mobile
-application" with the core "ERP web application".
-The new application is contains four sections:
+The new channel is designed to provide outstanding customer satisfaction and an excellent user experience and move our success partners to the digital area by integrating the "sales rep. mobile application" with the core "ERP web application". The new application contains four sections:
 . Sales Invoice
 . Invoices List
 . Cash Voucher
