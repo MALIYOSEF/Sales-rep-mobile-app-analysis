@@ -11,7 +11,7 @@ deliverables:
 <ul><li>Mobile application for sales reps</li>
 <li>Integration with the core ERP web application</li></ul>
 
-The new channel is designed to provide outstanding customer satisfaction and an excellent user experience and move our success partners to the digital area by integrating the "sales rep. mobile application" with the core "ERP web application". The new application contains four sections:
+The new channel is designed to provide outstanding customer satisfaction and an excellent user experience and move our success partners to the digital area by integrating the "sales rep. mobile application" with the core "ERP web application". <p>The new application contains four sections:</p>
 <ul><li> Sales Invoice</li>
 <li>Invoices List</li>
 <li>Cash Voucher</li>
